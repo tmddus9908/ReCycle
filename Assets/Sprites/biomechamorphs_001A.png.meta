@@ -1,0 +1,1897 @@
+fileFormatVersion: 2
+guid: a5985073c04514d4ba8357ee62e3786a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: biomechamorphs_001A_500
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213f32d1282bbe247b8a296e1241a189
+      internalID: 1824117842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_501
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da0daf7959dfb544810b0478d4a60fd
+      internalID: -1319192309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_502
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba54a7ef44b4f484dbcc2988d7801fef
+      internalID: 1711680855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_503
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabf4d578de76b44bac68a9297ae4729
+      internalID: -1640447926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_504
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8abeec3bd96a74ab5ad512996500c8
+      internalID: -261121096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_505
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab81b37e7467b34499ebfaa6e8e3103
+      internalID: -130597116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_506
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e59c53adec28f46a411177353b44bc
+      internalID: -1932605109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_507
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60800dbcdd6d08c4f8818173e3b40a79
+      internalID: 1948156710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_508
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b1d7b9e6535c042a4ad2143c2989c0
+      internalID: 889926248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_509
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3003fb4861beaf47800a9489e2e7b9e
+      internalID: -1165417772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_510
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc4103bcf087814ca1f12dfefa96a5e
+      internalID: -1873958173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_511
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee51d960b40b364dbbd940d958f18a5
+      internalID: -207137242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_512
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f315d5414104240bed4738317819d8
+      internalID: 1279915004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_513
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8913d53a69ca70445bc1169889edc6df
+      internalID: 1033012639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_514
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5e5e8df267c5d47a35d8624adb14d2
+      internalID: -1720949954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_515
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05978aa0db804c642b111f8788af33e2
+      internalID: 305958839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_522
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0005d93e3877b42b75845d1d4c91cc
+      internalID: -1977288615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_523
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0e289f6d11bd245939fba4a1495714
+      internalID: -442238950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_524
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88262f53122cfe42b93f86bed4c5651
+      internalID: 851798505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_525
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794cb19fd5ec75d44b4188ce997da44d
+      internalID: -454227109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_526
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e364cd0b9b9187142b1b08a80c0f50ef
+      internalID: 435475437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_527
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23291c4fe5f7e804ba8143a27aa92c00
+      internalID: 1676897924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_528
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a206139fdd1c4e47a6e9bf7da1aff32
+      internalID: 694630755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_529
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a13db6401687a478edf314c10b7db3
+      internalID: -4115144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_530
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f41f20d76e27340b3882324d38b403
+      internalID: 1341342818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_531
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4b3eaa5365cf24bab74d392c71196d
+      internalID: -416429576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_532
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b122dc77bd54347ab6395472f70a40
+      internalID: 39650124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_533
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaabcd775649ee849aa105c288ca1681
+      internalID: 1272964098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_534
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b167096bdbc0448a22ed40819ab401
+      internalID: 703141139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_535
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a4bb97fd6e97e4394b6f065a591816
+      internalID: -1585604624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_536
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18c248bd57997a4d910d8321ff9c754
+      internalID: 132139038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_543
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1879217c4bbfe344fae29fd834585f42
+      internalID: 1540849537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_544
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46f8405f2b0d694888c71ada068b8f2
+      internalID: 1871227271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_545
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48aaf8ef514e8bf4080bbfad43885d30
+      internalID: 126295293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_546
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49ac8a69c362eb4ebd69b12c25a1463
+      internalID: 594657888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_547
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e3af61ac1db8e40900e8170e803e20
+      internalID: -1697716803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_548
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcda916089e5154381f65d338576920
+      internalID: 1425332339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_549
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a3b7a320aae374d8d075208066f3af
+      internalID: -958335573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_550
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0ca2bd17479e74b9d0d201764c4254
+      internalID: 2130468409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_551
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f87b6d90dbdd146b8589583d24203a
+      internalID: -2054603342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_552
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62890c66711985646a6c1ea1a9a90027
+      internalID: 1949848765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_553
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34854daeb0a4fed4f817b91fe364c738
+      internalID: -507006103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_554
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae31617cd831e740b18865c1290be29
+      internalID: -1710706087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_555
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f7169b14e40324ba8082d6d01e326f
+      internalID: 1487141805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_556
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c943b3470c0bd42a4cbcfbdb55ff7c
+      internalID: -708949800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_557
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b807ff9a761f846990ba43c613d83e
+      internalID: -1585244655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_0
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4045208ff621945b6621bdf47ef375
+      internalID: -40624288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94fafe4d98a89c4fa03527b3d992eec
+      internalID: 1890204919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411251f8030582c46999d3ec9639c487
+      internalID: -837799599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf215f972a3809241b57de3be54f5bf4
+      internalID: -1136033259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303996277dab28c4d8f7806de9b7511c
+      internalID: 1369199633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b35d75e1ac884e4a9c0c91365e25594
+      internalID: 1218299975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612a50084aad221458d6c5f4b09651f1
+      internalID: 2029489594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biomechamorphs_001A_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2048f86c32c0704e846cc0b17963304
+      internalID: -69971342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      biomechamorphs_001A_0: -40624288
+      biomechamorphs_001A_1: 1890204919
+      biomechamorphs_001A_10: -984890126
+      biomechamorphs_001A_100: -467585184
+      biomechamorphs_001A_101: -698679791
+      biomechamorphs_001A_102: -1929572728
+      biomechamorphs_001A_103: 1171183674
+      biomechamorphs_001A_104: 1078204147
+      biomechamorphs_001A_105: -792742178
+      biomechamorphs_001A_106: -218857898
+      biomechamorphs_001A_107: -2113970505
+      biomechamorphs_001A_108: 421509096
+      biomechamorphs_001A_109: 963460194
+      biomechamorphs_001A_11: 709931389
+      biomechamorphs_001A_110: -938953909
+      biomechamorphs_001A_111: -1962257225
+      biomechamorphs_001A_112: -66606262
+      biomechamorphs_001A_113: -1055354287
+      biomechamorphs_001A_114: 1989734673
+      biomechamorphs_001A_115: -820024658
+      biomechamorphs_001A_116: -797187271
+      biomechamorphs_001A_117: 1143702058
+      biomechamorphs_001A_118: -1067265264
+      biomechamorphs_001A_119: -1096501084
+      biomechamorphs_001A_12: 592187363
+      biomechamorphs_001A_120: -937747937
+      biomechamorphs_001A_121: 698666349
+      biomechamorphs_001A_122: -1800885049
+      biomechamorphs_001A_123: 1288996637
+      biomechamorphs_001A_124: -156248111
+      biomechamorphs_001A_125: -1310253232
+      biomechamorphs_001A_126: 316759904
+      biomechamorphs_001A_127: 897521181
+      biomechamorphs_001A_128: -2101459163
+      biomechamorphs_001A_129: 1110333720
+      biomechamorphs_001A_13: 972178187
+      biomechamorphs_001A_130: 1180725723
+      biomechamorphs_001A_131: -938931122
+      biomechamorphs_001A_132: 652967091
+      biomechamorphs_001A_133: 1216124638
+      biomechamorphs_001A_134: 1476724684
+      biomechamorphs_001A_135: -700239992
+      biomechamorphs_001A_136: 409406709
+      biomechamorphs_001A_137: 842203639
+      biomechamorphs_001A_138: 1810170645
+      biomechamorphs_001A_139: -735627880
+      biomechamorphs_001A_14: 273625561
+      biomechamorphs_001A_140: 462174038
+      biomechamorphs_001A_141: -870958201
+      biomechamorphs_001A_142: 175720385
+      biomechamorphs_001A_143: 1414584506
+      biomechamorphs_001A_144: -715875015
+      biomechamorphs_001A_145: -584822564
+      biomechamorphs_001A_146: -41269244
+      biomechamorphs_001A_147: 1337767310
+      biomechamorphs_001A_148: -2008087443
+      biomechamorphs_001A_149: -208588088
+      biomechamorphs_001A_15: -505592295
+      biomechamorphs_001A_150: 1876603199
+      biomechamorphs_001A_151: 116538277
+      biomechamorphs_001A_152: 901176291
+      biomechamorphs_001A_153: 535193400
+      biomechamorphs_001A_154: -870343840
+      biomechamorphs_001A_155: 934890736
+      biomechamorphs_001A_156: -1319343521
+      biomechamorphs_001A_157: -187015704
+      biomechamorphs_001A_158: 715604550
+      biomechamorphs_001A_159: 1532226001
+      biomechamorphs_001A_16: -601504021
+      biomechamorphs_001A_160: -523417296
+      biomechamorphs_001A_161: 1894219304
+      biomechamorphs_001A_162: -223291022
+      biomechamorphs_001A_163: -1743589016
+      biomechamorphs_001A_164: -218889818
+      biomechamorphs_001A_165: 390338623
+      biomechamorphs_001A_166: -896290954
+      biomechamorphs_001A_167: -570893878
+      biomechamorphs_001A_168: 797988254
+      biomechamorphs_001A_169: 2047508707
+      biomechamorphs_001A_17: -1213964944
+      biomechamorphs_001A_170: 259676448
+      biomechamorphs_001A_171: -349163082
+      biomechamorphs_001A_172: 1538682064
+      biomechamorphs_001A_173: 1605972584
+      biomechamorphs_001A_174: 204550976
+      biomechamorphs_001A_175: 774527439
+      biomechamorphs_001A_176: -1715076000
+      biomechamorphs_001A_177: 1755626146
+      biomechamorphs_001A_178: 1813990647
+      biomechamorphs_001A_179: 1775073353
+      biomechamorphs_001A_18: 100098848
+      biomechamorphs_001A_180: -1099856944
+      biomechamorphs_001A_181: 142368679
+      biomechamorphs_001A_182: 389952367
+      biomechamorphs_001A_183: -2002271183
+      biomechamorphs_001A_184: -1131585927
+      biomechamorphs_001A_185: -1369179463
+      biomechamorphs_001A_186: 392217127
+      biomechamorphs_001A_187: -1760713189
+      biomechamorphs_001A_188: 1753373730
+      biomechamorphs_001A_189: 853709659
+      biomechamorphs_001A_19: -92056274
+      biomechamorphs_001A_190: 744922227
+      biomechamorphs_001A_191: 1616721320
+      biomechamorphs_001A_192: -14829444
+      biomechamorphs_001A_193: 560671860
+      biomechamorphs_001A_194: 1930895504
+      biomechamorphs_001A_195: 1258093942
+      biomechamorphs_001A_196: -1480986555
+      biomechamorphs_001A_197: 1407098868
+      biomechamorphs_001A_198: 398691507
+      biomechamorphs_001A_199: -1576808056
+      biomechamorphs_001A_2: -837799599
+      biomechamorphs_001A_20: 1612513171
+      biomechamorphs_001A_200: 1902020910
+      biomechamorphs_001A_201: -1388661585
+      biomechamorphs_001A_202: -23354732
+      biomechamorphs_001A_203: 1884561854
+      biomechamorphs_001A_204: -1901025421
+      biomechamorphs_001A_205: -21597246
+      biomechamorphs_001A_206: 850486860
+      biomechamorphs_001A_207: 1589927092
+      biomechamorphs_001A_208: -1392580158
+      biomechamorphs_001A_209: 92354964
+      biomechamorphs_001A_21: 606235423
+      biomechamorphs_001A_210: 605811427
+      biomechamorphs_001A_211: -75971431
+      biomechamorphs_001A_212: 1560697724
+      biomechamorphs_001A_213: 1970454315
+      biomechamorphs_001A_214: -1502732969
+      biomechamorphs_001A_215: 1299637258
+      biomechamorphs_001A_216: 968547432
+      biomechamorphs_001A_217: 898766780
+      biomechamorphs_001A_218: 1777407072
+      biomechamorphs_001A_219: 1415511229
+      biomechamorphs_001A_22: -1942953081
+      biomechamorphs_001A_220: -995687173
+      biomechamorphs_001A_221: -1698275341
+      biomechamorphs_001A_222: -1757279617
+      biomechamorphs_001A_223: -143781431
+      biomechamorphs_001A_224: -985316643
+      biomechamorphs_001A_225: 1935586866
+      biomechamorphs_001A_226: 2106824295
+      biomechamorphs_001A_227: 1232723338
+      biomechamorphs_001A_228: -1385195614
+      biomechamorphs_001A_229: 986569263
+      biomechamorphs_001A_23: -457536553
+      biomechamorphs_001A_230: 1815722139
+      biomechamorphs_001A_231: 892672828
+      biomechamorphs_001A_232: 1822169722
+      biomechamorphs_001A_233: -1070105011
+      biomechamorphs_001A_234: 645188158
+      biomechamorphs_001A_235: -438137367
+      biomechamorphs_001A_236: -599599034
+      biomechamorphs_001A_237: 26952607
+      biomechamorphs_001A_238: 1729072448
+      biomechamorphs_001A_239: 538734545
+      biomechamorphs_001A_24: -1294035878
+      biomechamorphs_001A_240: -1628223508
+      biomechamorphs_001A_241: -1738528948
+      biomechamorphs_001A_242: -1072527530
+      biomechamorphs_001A_243: -1598155875
+      biomechamorphs_001A_244: 1010755044
+      biomechamorphs_001A_245: 1091047589
+      biomechamorphs_001A_246: 1869864225
+      biomechamorphs_001A_247: 619555089
+      biomechamorphs_001A_248: 1419717188
+      biomechamorphs_001A_249: -205196945
+      biomechamorphs_001A_25: -589141421
+      biomechamorphs_001A_250: -1083354473
+      biomechamorphs_001A_251: -1983604583
+      biomechamorphs_001A_252: -1563334300
+      biomechamorphs_001A_253: 1317539048
+      biomechamorphs_001A_254: 1657715863
+      biomechamorphs_001A_255: -133618368
+      biomechamorphs_001A_256: 499962058
+      biomechamorphs_001A_257: -1462617169
+      biomechamorphs_001A_258: 1135679078
+      biomechamorphs_001A_259: -1260737011
+      biomechamorphs_001A_26: -1473350413
+      biomechamorphs_001A_260: -28964334
+      biomechamorphs_001A_261: 1314909814
+      biomechamorphs_001A_262: 252294777
+      biomechamorphs_001A_263: 597093261
+      biomechamorphs_001A_264: 574482443
+      biomechamorphs_001A_265: -453168258
+      biomechamorphs_001A_266: -560048368
+      biomechamorphs_001A_267: -1614200940
+      biomechamorphs_001A_268: -2089102478
+      biomechamorphs_001A_269: -1919750662
+      biomechamorphs_001A_27: -1062968573
+      biomechamorphs_001A_270: 2093119858
+      biomechamorphs_001A_271: -380072852
+      biomechamorphs_001A_272: 1523460600
+      biomechamorphs_001A_273: -206561364
+      biomechamorphs_001A_274: -308817094
+      biomechamorphs_001A_275: 531826038
+      biomechamorphs_001A_276: -58698680
+      biomechamorphs_001A_277: 1088100899
+      biomechamorphs_001A_278: 852338659
+      biomechamorphs_001A_279: -322520887
+      biomechamorphs_001A_28: -985675409
+      biomechamorphs_001A_280: -1482724998
+      biomechamorphs_001A_281: -2079466525
+      biomechamorphs_001A_282: -930043790
+      biomechamorphs_001A_283: -320787216
+      biomechamorphs_001A_284: -1689215877
+      biomechamorphs_001A_285: 1683125910
+      biomechamorphs_001A_286: 793194387
+      biomechamorphs_001A_287: 1710053659
+      biomechamorphs_001A_288: 1602255941
+      biomechamorphs_001A_289: 1579447113
+      biomechamorphs_001A_29: 357015895
+      biomechamorphs_001A_290: 1211758587
+      biomechamorphs_001A_291: -39453715
+      biomechamorphs_001A_292: -258031089
+      biomechamorphs_001A_293: -1197559050
+      biomechamorphs_001A_294: 310401201
+      biomechamorphs_001A_295: 1019355783
+      biomechamorphs_001A_296: 663802220
+      biomechamorphs_001A_297: 476692717
+      biomechamorphs_001A_298: 1540615906
+      biomechamorphs_001A_299: -1318624659
+      biomechamorphs_001A_3: -1136033259
+      biomechamorphs_001A_30: 2121771722
+      biomechamorphs_001A_300: -1133841489
+      biomechamorphs_001A_301: 2104866630
+      biomechamorphs_001A_302: -968921048
+      biomechamorphs_001A_303: -649771426
+      biomechamorphs_001A_304: 414586960
+      biomechamorphs_001A_305: -1348497324
+      biomechamorphs_001A_306: -677678534
+      biomechamorphs_001A_307: 176142705
+      biomechamorphs_001A_308: 577350762
+      biomechamorphs_001A_309: 442794868
+      biomechamorphs_001A_31: 662609575
+      biomechamorphs_001A_310: 1280871986
+      biomechamorphs_001A_311: 1166786281
+      biomechamorphs_001A_312: 42960915
+      biomechamorphs_001A_313: -2096908573
+      biomechamorphs_001A_314: -2088108526
+      biomechamorphs_001A_315: 903420022
+      biomechamorphs_001A_316: 526613206
+      biomechamorphs_001A_317: 920724560
+      biomechamorphs_001A_318: 1731929946
+      biomechamorphs_001A_319: 1406483022
+      biomechamorphs_001A_32: 613017214
+      biomechamorphs_001A_320: 1420469696
+      biomechamorphs_001A_321: -779821691
+      biomechamorphs_001A_322: -522450788
+      biomechamorphs_001A_323: 1399551182
+      biomechamorphs_001A_324: -221752729
+      biomechamorphs_001A_325: 952083642
+      biomechamorphs_001A_326: 870698823
+      biomechamorphs_001A_327: 1564891432
+      biomechamorphs_001A_328: 900843152
+      biomechamorphs_001A_329: 1728192908
+      biomechamorphs_001A_33: -1690208880
+      biomechamorphs_001A_330: -524712332
+      biomechamorphs_001A_331: 520186520
+      biomechamorphs_001A_332: -937179770
+      biomechamorphs_001A_333: 768714546
+      biomechamorphs_001A_334: 1323076071
+      biomechamorphs_001A_335: 319974301
+      biomechamorphs_001A_336: -1921359669
+      biomechamorphs_001A_337: -182007383
+      biomechamorphs_001A_338: 1094944130
+      biomechamorphs_001A_339: -183125092
+      biomechamorphs_001A_34: -178935245
+      biomechamorphs_001A_340: -1704228704
+      biomechamorphs_001A_341: -1177234712
+      biomechamorphs_001A_342: 1717404451
+      biomechamorphs_001A_343: 140575273
+      biomechamorphs_001A_344: -392874065
+      biomechamorphs_001A_345: 733686921
+      biomechamorphs_001A_346: 958083071
+      biomechamorphs_001A_347: -1802621532
+      biomechamorphs_001A_348: 1611106410
+      biomechamorphs_001A_349: 1583990394
+      biomechamorphs_001A_35: -1024223415
+      biomechamorphs_001A_350: -1724772013
+      biomechamorphs_001A_351: -785146137
+      biomechamorphs_001A_352: -246756825
+      biomechamorphs_001A_353: -1353920938
+      biomechamorphs_001A_354: -830386359
+      biomechamorphs_001A_355: 1654353406
+      biomechamorphs_001A_356: -1881628378
+      biomechamorphs_001A_357: 245551167
+      biomechamorphs_001A_358: 288007493
+      biomechamorphs_001A_359: 288465898
+      biomechamorphs_001A_36: -1307872022
+      biomechamorphs_001A_360: -611836624
+      biomechamorphs_001A_361: 328872151
+      biomechamorphs_001A_362: -1791717332
+      biomechamorphs_001A_363: -1338629403
+      biomechamorphs_001A_364: -1587625906
+      biomechamorphs_001A_365: 1491514528
+      biomechamorphs_001A_366: 1229703345
+      biomechamorphs_001A_367: 1205034673
+      biomechamorphs_001A_368: -1130842427
+      biomechamorphs_001A_369: 1448038066
+      biomechamorphs_001A_37: 1859677756
+      biomechamorphs_001A_370: -829715279
+      biomechamorphs_001A_371: -802064311
+      biomechamorphs_001A_372: -543723990
+      biomechamorphs_001A_373: -1924956048
+      biomechamorphs_001A_374: 1776377452
+      biomechamorphs_001A_375: -1824555677
+      biomechamorphs_001A_376: -1159753632
+      biomechamorphs_001A_377: -411560108
+      biomechamorphs_001A_378: -1322100994
+      biomechamorphs_001A_379: -1664181220
+      biomechamorphs_001A_38: 716291435
+      biomechamorphs_001A_380: -1857217907
+      biomechamorphs_001A_381: 1615531800
+      biomechamorphs_001A_382: 140316458
+      biomechamorphs_001A_383: -1597083622
+      biomechamorphs_001A_384: -949886250
+      biomechamorphs_001A_385: -935183734
+      biomechamorphs_001A_386: 1876338518
+      biomechamorphs_001A_387: -873725091
+      biomechamorphs_001A_388: 60120879
+      biomechamorphs_001A_389: -453136437
+      biomechamorphs_001A_39: 2015336070
+      biomechamorphs_001A_390: -614406038
+      biomechamorphs_001A_391: 89844264
+      biomechamorphs_001A_392: -320952613
+      biomechamorphs_001A_393: -340420489
+      biomechamorphs_001A_394: -1778096376
+      biomechamorphs_001A_395: -347240464
+      biomechamorphs_001A_396: 951471457
+      biomechamorphs_001A_397: -599963730
+      biomechamorphs_001A_398: 1630640728
+      biomechamorphs_001A_399: 324260207
+      biomechamorphs_001A_4: 1369199633
+      biomechamorphs_001A_40: -1742644260
+      biomechamorphs_001A_400: 2112169254
+      biomechamorphs_001A_401: -1012690809
+      biomechamorphs_001A_402: -304511806
+      biomechamorphs_001A_403: 1197225912
+      biomechamorphs_001A_404: 976101782
+      biomechamorphs_001A_405: -830669963
+      biomechamorphs_001A_406: -585573198
+      biomechamorphs_001A_407: -941521869
+      biomechamorphs_001A_408: 1796389108
+      biomechamorphs_001A_409: 1571513272
+      biomechamorphs_001A_41: 99574141
+      biomechamorphs_001A_410: 824825814
+      biomechamorphs_001A_411: -1277866520
+      biomechamorphs_001A_412: 833285920
+      biomechamorphs_001A_413: -225029735
+      biomechamorphs_001A_414: -221853872
+      biomechamorphs_001A_415: -797016239
+      biomechamorphs_001A_416: -176188646
+      biomechamorphs_001A_417: -1621379504
+      biomechamorphs_001A_418: 1605834225
+      biomechamorphs_001A_419: -809801462
+      biomechamorphs_001A_42: -947242736
+      biomechamorphs_001A_420: -2124046284
+      biomechamorphs_001A_421: -953326913
+      biomechamorphs_001A_422: -439874354
+      biomechamorphs_001A_423: 1906222859
+      biomechamorphs_001A_424: -2092192745
+      biomechamorphs_001A_425: 150517628
+      biomechamorphs_001A_426: -355261752
+      biomechamorphs_001A_427: -1630767950
+      biomechamorphs_001A_428: 2086321753
+      biomechamorphs_001A_429: -2104577822
+      biomechamorphs_001A_43: -1500616939
+      biomechamorphs_001A_430: -627453038
+      biomechamorphs_001A_431: 1541170933
+      biomechamorphs_001A_432: 2095378318
+      biomechamorphs_001A_433: -1406855847
+      biomechamorphs_001A_434: 773243296
+      biomechamorphs_001A_435: 24937157
+      biomechamorphs_001A_436: -1994781573
+      biomechamorphs_001A_437: -1698015286
+      biomechamorphs_001A_438: -156819080
+      biomechamorphs_001A_439: 302528000
+      biomechamorphs_001A_44: 2068708831
+      biomechamorphs_001A_440: 1612374214
+      biomechamorphs_001A_441: 1664080438
+      biomechamorphs_001A_442: 1869590975
+      biomechamorphs_001A_443: -240143982
+      biomechamorphs_001A_444: -1379834999
+      biomechamorphs_001A_445: 1499169086
+      biomechamorphs_001A_446: 1522244963
+      biomechamorphs_001A_447: 859656485
+      biomechamorphs_001A_448: 816931860
+      biomechamorphs_001A_449: -1312838121
+      biomechamorphs_001A_45: -994880790
+      biomechamorphs_001A_450: 454013863
+      biomechamorphs_001A_451: -85566176
+      biomechamorphs_001A_452: -1815873644
+      biomechamorphs_001A_453: 1571861961
+      biomechamorphs_001A_454: 1975275985
+      biomechamorphs_001A_455: 208853768
+      biomechamorphs_001A_456: 1866023318
+      biomechamorphs_001A_457: 684436910
+      biomechamorphs_001A_458: -183405880
+      biomechamorphs_001A_459: -561618088
+      biomechamorphs_001A_46: -1285567289
+      biomechamorphs_001A_460: -693860734
+      biomechamorphs_001A_461: 547103107
+      biomechamorphs_001A_462: 120164405
+      biomechamorphs_001A_463: 2096696552
+      biomechamorphs_001A_464: -604999355
+      biomechamorphs_001A_465: -1830978494
+      biomechamorphs_001A_466: 928158649
+      biomechamorphs_001A_467: -1528182002
+      biomechamorphs_001A_468: -1082871662
+      biomechamorphs_001A_469: -1831656860
+      biomechamorphs_001A_47: 452035481
+      biomechamorphs_001A_470: -425492226
+      biomechamorphs_001A_471: -1551592260
+      biomechamorphs_001A_472: -1779502871
+      biomechamorphs_001A_473: -2039664937
+      biomechamorphs_001A_474: -183229995
+      biomechamorphs_001A_475: -248552829
+      biomechamorphs_001A_476: -468316264
+      biomechamorphs_001A_477: 1803580693
+      biomechamorphs_001A_478: 1526016270
+      biomechamorphs_001A_479: -660200494
+      biomechamorphs_001A_48: 1193479124
+      biomechamorphs_001A_480: -624805080
+      biomechamorphs_001A_481: -2130757355
+      biomechamorphs_001A_482: 4473767
+      biomechamorphs_001A_483: 1388407253
+      biomechamorphs_001A_484: 356409449
+      biomechamorphs_001A_485: 856188277
+      biomechamorphs_001A_486: 1631269681
+      biomechamorphs_001A_487: -942146312
+      biomechamorphs_001A_488: -519839175
+      biomechamorphs_001A_489: -162272369
+      biomechamorphs_001A_49: -233543551
+      biomechamorphs_001A_490: 296073064
+      biomechamorphs_001A_491: 1483421313
+      biomechamorphs_001A_492: -1771770261
+      biomechamorphs_001A_493: -946030190
+      biomechamorphs_001A_494: 1133453848
+      biomechamorphs_001A_495: -73102119
+      biomechamorphs_001A_496: 1840937413
+      biomechamorphs_001A_497: 1245192162
+      biomechamorphs_001A_498: -1314730292
+      biomechamorphs_001A_499: 51273721
+      biomechamorphs_001A_5: 1218299975
+      biomechamorphs_001A_50: -105571175
+      biomechamorphs_001A_500: 1824117842
+      biomechamorphs_001A_501: -1319192309
+      biomechamorphs_001A_502: 1711680855
+      biomechamorphs_001A_503: -1640447926
+      biomechamorphs_001A_504: -261121096
+      biomechamorphs_001A_505: -130597116
+      biomechamorphs_001A_506: -1932605109
+      biomechamorphs_001A_507: 1948156710
+      biomechamorphs_001A_508: 889926248
+      biomechamorphs_001A_509: -1165417772
+      biomechamorphs_001A_51: -428077434
+      biomechamorphs_001A_510: -1873958173
+      biomechamorphs_001A_511: -207137242
+      biomechamorphs_001A_512: 1279915004
+      biomechamorphs_001A_513: 1033012639
+      biomechamorphs_001A_514: -1720949954
+      biomechamorphs_001A_515: 305958839
+      biomechamorphs_001A_516: -2081364013
+      biomechamorphs_001A_517: -518782585
+      biomechamorphs_001A_518: -1750380305
+      biomechamorphs_001A_519: -439654549
+      biomechamorphs_001A_52: -42196054
+      biomechamorphs_001A_520: 334372944
+      biomechamorphs_001A_521: 1155973532
+      biomechamorphs_001A_522: -1977288615
+      biomechamorphs_001A_523: -442238950
+      biomechamorphs_001A_524: 851798505
+      biomechamorphs_001A_525: -454227109
+      biomechamorphs_001A_526: 435475437
+      biomechamorphs_001A_527: 1676897924
+      biomechamorphs_001A_528: 694630755
+      biomechamorphs_001A_529: -4115144
+      biomechamorphs_001A_53: -2070097486
+      biomechamorphs_001A_530: 1341342818
+      biomechamorphs_001A_531: -416429576
+      biomechamorphs_001A_532: 39650124
+      biomechamorphs_001A_533: 1272964098
+      biomechamorphs_001A_534: 703141139
+      biomechamorphs_001A_535: -1585604624
+      biomechamorphs_001A_536: 132139038
+      biomechamorphs_001A_537: -94555148
+      biomechamorphs_001A_538: -887124956
+      biomechamorphs_001A_539: 1865910894
+      biomechamorphs_001A_54: -1916033131
+      biomechamorphs_001A_540: -125636553
+      biomechamorphs_001A_541: -348484711
+      biomechamorphs_001A_542: 379519366
+      biomechamorphs_001A_543: 1540849537
+      biomechamorphs_001A_544: 1871227271
+      biomechamorphs_001A_545: 126295293
+      biomechamorphs_001A_546: 594657888
+      biomechamorphs_001A_547: -1697716803
+      biomechamorphs_001A_548: 1425332339
+      biomechamorphs_001A_549: -958335573
+      biomechamorphs_001A_55: 1133755795
+      biomechamorphs_001A_550: 2130468409
+      biomechamorphs_001A_551: -2054603342
+      biomechamorphs_001A_552: 1949848765
+      biomechamorphs_001A_553: -507006103
+      biomechamorphs_001A_554: -1710706087
+      biomechamorphs_001A_555: 1487141805
+      biomechamorphs_001A_556: -708949800
+      biomechamorphs_001A_557: -1585244655
+      biomechamorphs_001A_558: 1864038137
+      biomechamorphs_001A_559: 764242534
+      biomechamorphs_001A_56: 660369648
+      biomechamorphs_001A_560: 240854961
+      biomechamorphs_001A_561: -1154841577
+      biomechamorphs_001A_562: -440533317
+      biomechamorphs_001A_563: -1689922462
+      biomechamorphs_001A_564: 1273281186
+      biomechamorphs_001A_565: 534436205
+      biomechamorphs_001A_566: 677941374
+      biomechamorphs_001A_567: -1534803389
+      biomechamorphs_001A_568: 239696006
+      biomechamorphs_001A_569: 1752141305
+      biomechamorphs_001A_57: 38207564
+      biomechamorphs_001A_570: 2131636377
+      biomechamorphs_001A_571: -2112566832
+      biomechamorphs_001A_572: 143565343
+      biomechamorphs_001A_573: -247427967
+      biomechamorphs_001A_574: -36561585
+      biomechamorphs_001A_575: 1888256346
+      biomechamorphs_001A_576: -2078229624
+      biomechamorphs_001A_577: -1677793579
+      biomechamorphs_001A_578: -386613328
+      biomechamorphs_001A_579: -1456977008
+      biomechamorphs_001A_58: -310572939
+      biomechamorphs_001A_580: -447359463
+      biomechamorphs_001A_581: -200652567
+      biomechamorphs_001A_582: 796413277
+      biomechamorphs_001A_583: 632600486
+      biomechamorphs_001A_584: 817659914
+      biomechamorphs_001A_585: 1179428877
+      biomechamorphs_001A_586: -2054868888
+      biomechamorphs_001A_587: -520341160
+      biomechamorphs_001A_588: 245615417
+      biomechamorphs_001A_589: -1853633662
+      biomechamorphs_001A_59: -279187098
+      biomechamorphs_001A_590: -971011611
+      biomechamorphs_001A_591: 1921366154
+      biomechamorphs_001A_592: 380666273
+      biomechamorphs_001A_593: -578879458
+      biomechamorphs_001A_594: -1200345341
+      biomechamorphs_001A_595: 1063157426
+      biomechamorphs_001A_596: 1669811599
+      biomechamorphs_001A_597: -1059500963
+      biomechamorphs_001A_598: -1488837255
+      biomechamorphs_001A_599: 746595978
+      biomechamorphs_001A_6: 2029489594
+      biomechamorphs_001A_60: -1560253636
+      biomechamorphs_001A_600: -1813694925
+      biomechamorphs_001A_601: 2026605220
+      biomechamorphs_001A_602: 2113879147
+      biomechamorphs_001A_603: -1903766732
+      biomechamorphs_001A_604: -1409819384
+      biomechamorphs_001A_605: -2031531029
+      biomechamorphs_001A_606: 1721446408
+      biomechamorphs_001A_607: -976953173
+      biomechamorphs_001A_608: -1969516192
+      biomechamorphs_001A_609: 656392399
+      biomechamorphs_001A_61: -2105945803
+      biomechamorphs_001A_610: 406574865
+      biomechamorphs_001A_611: -1689397101
+      biomechamorphs_001A_612: -1146319221
+      biomechamorphs_001A_613: 1938203193
+      biomechamorphs_001A_614: -1078438129
+      biomechamorphs_001A_615: -1248918225
+      biomechamorphs_001A_616: -2072226188
+      biomechamorphs_001A_617: 673297401
+      biomechamorphs_001A_618: -1005313548
+      biomechamorphs_001A_619: 2010070158
+      biomechamorphs_001A_62: 558510879
+      biomechamorphs_001A_620: 1559804566
+      biomechamorphs_001A_621: 1185671804
+      biomechamorphs_001A_622: -963588274
+      biomechamorphs_001A_623: -1838462823
+      biomechamorphs_001A_624: -1034455010
+      biomechamorphs_001A_625: -1199690876
+      biomechamorphs_001A_626: 418772652
+      biomechamorphs_001A_627: 1769615324
+      biomechamorphs_001A_628: 647433782
+      biomechamorphs_001A_629: 120210366
+      biomechamorphs_001A_63: 1842938081
+      biomechamorphs_001A_630: -1270092436
+      biomechamorphs_001A_631: 680985120
+      biomechamorphs_001A_632: -629776960
+      biomechamorphs_001A_633: -1241996030
+      biomechamorphs_001A_634: -1748503887
+      biomechamorphs_001A_635: -1681950179
+      biomechamorphs_001A_64: 492260050
+      biomechamorphs_001A_65: 736482369
+      biomechamorphs_001A_66: 582641787
+      biomechamorphs_001A_67: 1452377280
+      biomechamorphs_001A_68: 1920958931
+      biomechamorphs_001A_69: 1458921681
+      biomechamorphs_001A_7: -69971342
+      biomechamorphs_001A_70: -633091552
+      biomechamorphs_001A_71: 748054287
+      biomechamorphs_001A_72: -1395866036
+      biomechamorphs_001A_73: -1930780530
+      biomechamorphs_001A_74: -1385424591
+      biomechamorphs_001A_75: 417089135
+      biomechamorphs_001A_76: 2103166891
+      biomechamorphs_001A_77: 1193847410
+      biomechamorphs_001A_78: -1821395571
+      biomechamorphs_001A_79: -113056865
+      biomechamorphs_001A_8: 354791429
+      biomechamorphs_001A_80: -614553989
+      biomechamorphs_001A_81: -965072344
+      biomechamorphs_001A_82: 907471372
+      biomechamorphs_001A_83: -1801186256
+      biomechamorphs_001A_84: -1869205515
+      biomechamorphs_001A_85: 1125860134
+      biomechamorphs_001A_86: -986537965
+      biomechamorphs_001A_87: 1899521038
+      biomechamorphs_001A_88: -78737676
+      biomechamorphs_001A_89: -1031873049
+      biomechamorphs_001A_9: 1529390176
+      biomechamorphs_001A_90: 727218815
+      biomechamorphs_001A_91: -1558433393
+      biomechamorphs_001A_92: -1688312705
+      biomechamorphs_001A_93: 1706084521
+      biomechamorphs_001A_94: -1954336195
+      biomechamorphs_001A_95: 193732818
+      biomechamorphs_001A_96: -1090343031
+      biomechamorphs_001A_97: 367968514
+      biomechamorphs_001A_98: 549150377
+      biomechamorphs_001A_99: -909535963
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
