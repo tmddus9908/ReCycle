@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0b6c304-847d-4fb6-943b-1c6dd5fe472b" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ReCycle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ReCycle/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" afterDir="false" />
-    </list>
+    <list default="true" id="b0b6c304-847d-4fb6-943b-1c6dd5fe472b" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +24,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/infinitymap",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -92,6 +89,7 @@
       <workItem from="1716031780367" duration="2168000" />
       <workItem from="1716123865708" duration="729000" />
       <workItem from="1716272823911" duration="16000" />
+      <workItem from="1716350387264" duration="3341000" />
     </task>
     <servers />
   </component>

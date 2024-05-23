@@ -11,7 +11,7 @@
                     "id": "2603f585-6b5c-463b-8052-fb9f071e5879",
                     "expectedControlType": "Vector2",
                     "processors": "NormalizeVector2",
-                    "interactions": "Press",
+                    "interactions": "Press(pressPoint=0.01)",
                     "initialStateCheck": true
                 },
                 {
