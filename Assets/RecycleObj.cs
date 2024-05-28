@@ -1,4 +1,6 @@
+using System;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 public class RecycleObj : MonoBehaviour
 {
@@ -6,6 +8,10 @@ public class RecycleObj : MonoBehaviour
 
     private void Awake()
     {
+        var enumValues = System.Enum.GetValues(enumType: typeof(ObjectManager.RecycleType));
+        type = (ObjectManager.RecycleType)enumValues.GetValue(Random.Range(0, enumValues.Length));
+        Debug.Log(type);
+
         if (type == ObjectManager.RecycleType.Metal)
         {
             int i = Random.Range(0, ObjectManager.Instance.metalObjectSprite.Length);
@@ -26,5 +32,14 @@ public class RecycleObj : MonoBehaviour
             int i = Random.Range(0, ObjectManager.Instance.plasticObjectSprite.Length);
             this.gameObject.GetComponent<SpriteRenderer>().sprite = ObjectManager.Instance.plasticObjectSprite[i];
         }
+    }
+
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        Debug.Log("충돌!");
+        InventoryDB.Instance.obj.Add(this.type);
+        Slot slot = InventoryDB.Instance.FindSlot();
+        if(InventoryDB.Instance.CheckNull())
+            InventoryDB.Instance.ChangeSlotImage(slot, this.GetComponent<SpriteRenderer>().sprite);
     }
 }

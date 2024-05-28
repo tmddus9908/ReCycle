@@ -1,7 +1,6 @@
-using System;
 using System.Collections;
-using UnityEditor;
 using UnityEngine;
+using UnityEngine.Tilemaps;
 using Random = UnityEngine.Random;
 
 public class ObjectManager : Singleton<ObjectManager>
@@ -13,7 +12,10 @@ public class ObjectManager : Singleton<ObjectManager>
     public Sprite[] glassObjectSprite;
     public Sprite[] metalObjectSprite;
 
+    [SerializeField] private Tilemap[] maps;
+    
     [SerializeField] private GameObject entity;
+    private float _currTime;
     public enum RecycleType
     {
         Metal,
@@ -22,32 +24,22 @@ public class ObjectManager : Singleton<ObjectManager>
         Plastic
     }
 
-    void Start()
-    {
-        _coroutine = Instantiate();
-    }
-
     private void FixedUpdate()
     {
-        StartCoroutine(_coroutine);
+        _currTime += Time.deltaTime;
+        if (_currTime >= 2)
+        {
+            CreateObj();
+            _currTime = 0;
+        }
     }
-
-    IEnumerator Instantiate()
+    public void CreateObj()
     {
-        yield return new WaitForSeconds(2.0f);
-        CreateObj(GetRendomEnumValue());
-    }
-
-    public RecycleType GetRendomEnumValue()
-    {
-        var enumValues = System.Enum.GetValues(enumType: typeof(RecycleType));
-        return (RecycleType)enumValues.GetValue(Random.Range(0, enumValues.Length));
-    }
-    public void CreateObj(RecycleType rt)
-    {
-        float random = Random.Range(-40, 40);
-        GameObject obj = Instantiate(entity, new Vector3(random, random), Quaternion.identity);
+        int idx = Random.Range(0, maps.Length);
+        
+        float randomX = Random.Range(maps[idx].transform.position.x - 20, maps[idx].transform.position.x + 20);
+        float randomY = Random.Range(maps[idx].transform.position.y - 20, maps[idx].transform.position.y + 20);
+        GameObject obj = Instantiate(entity, new Vector3(randomX, randomY), Quaternion.identity);
         obj.AddComponent<RecycleObj>();
-        obj.GetComponent<RecycleObj>().type = rt;
     }
 }
