@@ -8,9 +8,8 @@ public class RecycleObj : MonoBehaviour
 
     private void Awake()
     {
-        var enumValues = System.Enum.GetValues(enumType: typeof(ObjectManager.RecycleType));
+        var enumValues = Enum.GetValues(enumType: typeof(ObjectManager.RecycleType));
         type = (ObjectManager.RecycleType)enumValues.GetValue(Random.Range(0, enumValues.Length));
-        Debug.Log(type);
 
         if (type == ObjectManager.RecycleType.Metal)
         {
@@ -36,10 +35,14 @@ public class RecycleObj : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D other)
     {
-        Debug.Log("충돌!");
         InventoryDB.Instance.obj.Add(this.type);
         Slot slot = InventoryDB.Instance.FindSlot();
-        if(InventoryDB.Instance.CheckNull())
+        
+        if (InventoryDB.Instance.CheckNull())
             InventoryDB.Instance.ChangeSlotImage(slot, this.GetComponent<SpriteRenderer>().sprite);
+        else
+            return;
+        
+        Destroy(this.gameObject);
     }
 }

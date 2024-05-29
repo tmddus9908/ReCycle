@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public class InventoryDB : Singleton<InventoryDB>
@@ -35,6 +36,15 @@ public class InventoryDB : Singleton<InventoryDB>
     }
     public void ChangeSlotImage(Slot slot, Sprite sprite)
     {
+        Debug.Log("호출");
         slot.image.sprite = sprite;
+    }
+
+    public void ClearSlotImage()
+    {
+        for (int i = 0; i < slots.Count; i++)
+        {
+            slots[i].image.sprite = null;
+        }
     }
 }

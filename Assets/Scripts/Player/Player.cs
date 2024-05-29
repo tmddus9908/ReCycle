@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.Serialization;
@@ -19,7 +20,7 @@ public class Player : MonoBehaviour
     }
     private void FixedUpdate()
     {
-        Vector2 moveV = inputV * speed * Time.fixedDeltaTime   ;
+        Vector2 moveV = inputV * speed * Time.fixedDeltaTime;
         _rigid.MovePosition(_rigid.position + moveV);
     }
     void OnMove(InputValue value)
@@ -33,7 +34,7 @@ public class Player : MonoBehaviour
         {
             _anim.SetFloat("speedX", inputV.magnitude);
             _anim.SetFloat("speedY", 0);
-
+        
             _sprite.flipX = inputV.x > 0;
         }
         else if(inputV.x == 0 & inputV.y > 0)
