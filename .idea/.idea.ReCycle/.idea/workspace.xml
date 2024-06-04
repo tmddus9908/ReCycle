@@ -6,10 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="b0b6c304-847d-4fb6-943b-1c6dd5fe472b" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ReCycle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ReCycle/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/InventoryDB.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/InventoryDB.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Player.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player.inputactions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RecycleObj.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RecycleObj.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bin.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bin.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InventoryDB.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InventoryDB.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ObjectManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ObjectManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RecycleObj.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RecycleObj.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Singleton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Singleton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Slot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Slot.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,10 +32,7 @@
     <setting file="file://$PROJECT_DIR$/../Pagomoa/Assets/Scripts/Items/BombPrefab.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Pagomoa/Assets/Scripts/Items/Item.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Pagomoa/Assets/Scripts/Items/ItemEffect.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Bin.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/InventoryDB.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Slot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Minigame.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -39,7 +45,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;feature/trashobject&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/bin-minigame&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -107,7 +113,8 @@
       <workItem from="1716350387264" duration="3341000" />
       <workItem from="1716455620139" duration="4721000" />
       <workItem from="1716858276087" duration="5215000" />
-      <workItem from="1716944939665" duration="1702000" />
+      <workItem from="1716944939665" duration="2891000" />
+      <workItem from="1717463363830" duration="4458000" />
     </task>
     <servers />
   </component>
