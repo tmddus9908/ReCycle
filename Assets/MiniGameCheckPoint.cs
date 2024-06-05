@@ -9,11 +9,13 @@ public class MiniGameCheckPoint : MonoBehaviour
     {
         if (transform.position.x > 0)
         {
-            Minigame.Instance.vec.x *= -1;
+            // Minigame.Instance.vec.x *= -1;
+            GetComponentInParent<Minigame>().vec.x *= -1;
         }
         else
         {
-            Minigame.Instance.vec.x *= -1;
+            // Minigame.Instance.vec.x *= -1;            
+            GetComponentInParent<Minigame>().vec.x *= -1;
         }
     }
 }
